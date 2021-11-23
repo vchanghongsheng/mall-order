@@ -1,0 +1,13 @@
+server:
+  tomcat:
+    uri-encoding: utf-8
+    threads:
+      max: 100
+      min-spare: 3
+  servlet:
+    context-path: /
+  port: 8001
+
+spring:
+  profiles:
+    active: dev

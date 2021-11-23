@@ -1,4 +1,4 @@
-package com.bin.slp.mallorder;
+package com.bin.slp.order;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
